@@ -64,7 +64,7 @@ It can save the details of a national parks like:-
  
  ### User Mode
  
- ![](images/img-7.png)
+ ![](images/img-8.png)
  
  ## Future Scope and Further Enhancement
  
